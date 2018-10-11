@@ -28,17 +28,25 @@ Where does one get the data? In general if there is a page from the data provide
 
 If you happen to to the licence (what people are allowed to do with the data), mentioning it here means people can make an initially judgement about if the data is just not useful to their purpose.
 
+### Example Title:
+
+What is a summary title for you example.
+
 ### Example Description
 
-What does your example exemplify?
+What does your example exemplify (in a little detail)?
 
-### Example URL
+### Example Code URL
 
-Where can people find your example?
+Where can people find the code of your example if your are sharing code?- if not, leave blank
 
-### Example Licence
+### Example Code Licence
 
-As the author, and particularly if you example has computer code you wrote, what are you authorizing people can do with the code?
+As the author, and particularly if your example has computer code you wrote, what are you authorizing people can do with the code?
+
+### Example Product URL
+
+If it is a finished product example, like a graph or interactive website or whatever, where can people find it?
 
 ### Example Software
 
