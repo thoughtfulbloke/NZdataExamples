@@ -2,7 +2,7 @@ This is a proof of concept site for matching up New Zealand data with examples t
 
 ## Using it to find data or examples
 
-Open the dataexamples.md file and either browse through it or use the web browsers text find options to find specific things you are looking for.
+Open the [dataexamples.md](dataexamples.md) file and either browse through it or use the web browsers text find options to find specific things you are looking for.
 
 ## Adding examples of your own
 
