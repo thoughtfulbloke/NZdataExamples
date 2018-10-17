@@ -1,0 +1,4 @@
+"Author Contact","Data Description","Data Licence","Data URL","Example Code Licence","Example Code URL","Example Description","Example Product URL","Example Software","Example Title"
+"@thoughtfulnz on Twitter","At-Sea Observations of Seabirds 1969 to 1990","Creative Commons Attribution 4.0 International licence","https://catalogue.data.govt.nz/dataset/at-sea-observations-of-seabirds-1969-to-1990","MIT License","https://github.com/thoughtfulbloke/mapenguin","R example showing plotting bird sightings on a map","","R","Mapping NZ bird sightings"
+"@thoughtfulnz on Twitter","NIWA cliflo climate information","https://cliflo.niwa.co.nz/doc/terms.html","https://cliflo.niwa.co.nz","MIT License","https://github.com/thoughtfulbloke/clifro","Some R code using NIWA's cliflo database vis the R clifro package","","R","Using Cliflo in R"
+"","","","","","","","","",""
